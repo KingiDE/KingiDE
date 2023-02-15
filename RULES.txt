@@ -2,6 +2,7 @@ Repo-Regeln:
 - watch README.md in Beschreibung
 - Name: Template-Repository / Modtastic-Website
 - Lizenz & .gitignore festlegen
+- Environments und Packages ausblenden
 - selber starren
 
 README.md-Regeln:
